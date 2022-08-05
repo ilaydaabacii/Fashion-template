@@ -1,0 +1,100 @@
+img {
+    position: absolute;
+    width: 720px;
+    height: 864px;
+    left: 0px;
+    top: 0px;
+}
+
+
+.img1{
+height: 864px;
+width: 720px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+}
+
+.alticizili {
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+.baslik1{
+
+    height: 123px;
+    width: 494px;
+    left: 120px;
+    top: 96px;
+    border-radius: nullpx;
+    
+}
+
+
+h1 {
+font-family: ITC Avant Garde Gothic Pro;
+font-size: 31px;
+font-weight: 700;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.aciklama {
+font-family: Avenir;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.aciklama1{
+height: 52px;
+width: 432px;
+left: 120px;
+top: 231px;
+border-radius: nullpx;
+
+
+}
+
+.row2 {
+ height: 363px;
+width: 906px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background: #FFFFFF;
+
+}
+
+span {
+font-family: Avenir;
+font-size: 13px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.yuvarlak{
+     border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    height: 12px;
+    width: 12px;
+    top: 4px;
+    border-radius: 0px;
+    display: inline;
+    
+}
+
