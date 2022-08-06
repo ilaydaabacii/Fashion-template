@@ -73,7 +73,7 @@ left: 0px;
 top: 0px;
 border-radius: 0px;
 background: #FFFFFF;
-
+height: 450px; overflow-x: scroll; overflow-y: hidden;
 }
 
 span {
@@ -86,15 +86,9 @@ text-align: center;
 
 }
 
-.yuvarlak{
-     border-radius: 50px;
-    -moz-border-radius: 50px;
-    -webkit-border-radius: 50px;
-    height: 12px;
-    width: 12px;
-    top: 4px;
-    border-radius: 0px;
-    display: inline;
-    
+@media screen and (min-width:479) {
+
+	
+	
 }
 
